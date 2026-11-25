@@ -105,4 +105,13 @@ Customer-Churn-Retention-Analytics/
 
 This project demonstrates an end-to-end analytical workflow, combining business analysis, exploratory data analysis, machine learning, model evaluation, and data visualisation to derive insights into customer churn and retention.
 
+## Future Improvements
 
+Potential enhancements to extend this project include:
+
+- Advanced Machine Learning: Experiment with XGBoost, LightGBM, and hyperparameter tuning to improve churn prediction.
+- Model Deployment: Deploy the selected churn prediction model using Streamlit or FastAPI.
+- Automated Data Pipelines: Build automated data ingestion and preprocessing workflows using Azure Functions.
+- Customer Segmentation: Group customers based on engagement, subscription behaviour, and churn risk.
+- Retention Recommendations: Develop targeted retention strategies for high-risk customer segments.
+- Model Monitoring: Track model performance and prediction quality over time.
